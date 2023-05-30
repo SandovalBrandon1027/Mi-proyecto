@@ -1,0 +1,9 @@
+Clases: Es una nueva hoja de proyecto en donde podemos escribir nuestro codigo.
+Objeto: Se podria decir que es una nueva parte de la clase.
+Metodo: Este puede ser un metodo main o una nueva funcion void.
+Atributo: Son los valores con los que se inicializan los metodos.
+Setters: Estos nos permiten cambiar los valores la establecidos.
+Getters: Esta nos permite que los valores digitados en los setters se retornen como valor.
+Punteo: Son direcciones de memoria de objetos de datos en el núcleo del sistema operativo.
+Constructor: Este metodo nos ayuda a generar los getters y setters de una manera mas rapida.
+Git-hub: Es un repositorio en donde se guardan nuestros proyectos.
